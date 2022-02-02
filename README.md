@@ -21,8 +21,8 @@
    <div>
    <h2>📱 Contact</h2>
      <p align="center">
-   <a href = "mailto:marcinrataj0@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge &logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/marcin-rataj-a5167b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:marcinrataj0@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/marcin-rataj-a5167b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
      <div>
    <h2>🎨🎨 I can do a little</h2>
