@@ -27,7 +27,7 @@
    <a href="https://www.linkedin.com/in/marcin-rataj-a5167b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
      <div>
-   <h2🎨 I can do a little</h2>
+   <h2>🎨 I can do a little</h2>
   <p align="center">
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
   <img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a> 
