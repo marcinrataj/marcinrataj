@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi👋 , I'm Marcin Rataj </h1>
-  <p>I try to learn by myself. I was bootcamping at Coders Lab school where I could learn more about Front End basics and a lot more about the programmer's work.</p>
+  <p>I try to learn by myself. I was bootcamping at Coders Lab school where I could learn more about Front End basics and a lot more about the programmer's work. I enjoy learning new things, programming is wonderful, and even more  if it's a passion</p>
 </div>
 <div align="center">
   <a href="https://github.com/marcinrataj">
