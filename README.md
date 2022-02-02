@@ -16,7 +16,9 @@
    CSS <img align="center" alt="Marc-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    JavaScript <img align="center" alt="Marc-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    React <img align="center" alt="Marc-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   Sass <img align="center" alt="Marc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></p>
+   Sass <img align="center" alt="Marc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+   Git <img align="center" alt="Marc-CSS" height="40" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
 </div>
    <div>
    <h2>📱 Contact</h2>
