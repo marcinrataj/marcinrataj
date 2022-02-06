@@ -19,7 +19,7 @@
    Sass <img align="center" alt="Marc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    Git <img align="center" alt="Marc-CSS" height="40" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
    SQL <img align="center" alt="Marc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   Firebase <img align="center" alt="Marc-CSS" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<!--    Firebase <img align="center" alt="Marc-CSS" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> -->
 </div>
    <div>
    <h2>📱 Contact</h2>
